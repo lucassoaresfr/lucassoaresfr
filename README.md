@@ -39,9 +39,11 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresfr&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresfr&layout=compact&langs_count=7&theme=radical"/>
 </p>
+
+
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresfr&show_icons=true&theme=radical&count_private=true"/></p>
 
 ---
 
