@@ -12,7 +12,7 @@
 
 - 💡 Desde muito novo sou apaixonado por tecnologia, games e desenvolvimento criativo.  
 - 👨‍💻 Atualmente, atuo como **estagiário em desenvolvimento Full Stack**.  
-- ⚙️ Experiência com **Node.js, React, Next.js, TypeScript** e bancos **Oracle / MySQL**.  
+- ⚙️ Experiência com **Node.js, React, Next.js, TypeScript, Go** e bancos **Oracle / PostgreSql**.  
 - 🌱 Estou sempre aprendendo novas tecnologias e aprimorando boas práticas de código.  
 - 🤝 Acredito em **comunicação, colaboração e criatividade** como pilares do desenvolvimento.
 
